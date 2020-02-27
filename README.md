@@ -4,7 +4,7 @@ Dockerized Node.js service which creates Ethereum wallets
 <a href="https://www.docker.com/">
   <img
     height="90"
-    width="90"
+    width="150"
     alt="docker"
     src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png"
     align="left"
@@ -15,7 +15,7 @@ Dockerized Node.js service which creates Ethereum wallets
     height="90"
     width="90"
     alt="ethereum"
-    src="https://nyc3.digitaloceanspaces.com/servercarlosesverde/elevenews/wp-content/uploads/2019/09/11084936/ETHEREUM-YOUTUBE-PROFILE-PIC.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png"
     align="left"
   />
 </a>
