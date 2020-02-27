@@ -4,7 +4,7 @@ Dockerized Node.js service which creates Ethereum wallets
 <a href="https://www.docker.com/">
   <img
     height="90"
-    width="150"
+    width="120"
     alt="docker"
     src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png"
     align="left"
