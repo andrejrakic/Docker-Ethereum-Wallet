@@ -1,6 +1,6 @@
 # Docker Ethereum Wallet
 
-### Dockerized Node.js service which creates Ethereum wallets
+### Dockerized Node.js service for managing Ethereum wallets
 
 Build
 ```
