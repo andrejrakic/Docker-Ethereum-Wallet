@@ -1,5 +1,15 @@
 # Docker Ethereum Wallet
-Dockerized Node.js service which creates Ethereum wallets
+
+### Dockerized Node.js service which creates Ethereum wallets
+
+Build
+```
+docker build -t ethereum-wallet-server .  
+```
+Run
+```
+docker run -it -p 8888:4000 ethereum-wallet-server
+```
 
 <a href="https://www.docker.com/">
   <img
